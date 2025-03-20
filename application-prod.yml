@@ -12,6 +12,8 @@ custom:
   activeprofileName: production
 
 spring:
+  application:
+    name: businessdomain-customer
   jpa:
     show-sql: true
   datasource:
